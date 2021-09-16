@@ -1,0 +1,26 @@
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.FormPrincipal.resources
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\bin\Debug\DOMINIO.dll
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\bin\Debug\DOMINIO.pdb
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\teo\source\repos\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\bin\Debug\DOMINIO.dll
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\bin\Debug\DOMINIO.pdb
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.FormPrincipal.resources
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.pdb

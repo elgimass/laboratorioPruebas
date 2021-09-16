@@ -1,0 +1,6 @@
+C:\Users\teo\source\repos\Inventariomedico\ACCESOADATOS\bin\Debug\ACCESOADATOS.dll
+C:\Users\teo\source\repos\Inventariomedico\ACCESOADATOS\bin\Debug\ACCESOADATOS.pdb
+C:\Users\teo\source\repos\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.csproj.AssemblyReference.cache
+C:\Users\teo\source\repos\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.csproj.CoreCompileInputs.cache
+C:\Users\teo\source\repos\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.dll
+C:\Users\teo\source\repos\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.pdb

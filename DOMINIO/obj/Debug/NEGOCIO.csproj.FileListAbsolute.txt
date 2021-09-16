@@ -1,0 +1,18 @@
+C:\Users\teo\source\repos\Inventariomedico\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\teo\source\repos\Inventariomedico\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\teo\source\repos\Inventariomedico\DOMINIO\bin\Debug\ACCESOADATOS.dll
+C:\Users\teo\source\repos\Inventariomedico\DOMINIO\bin\Debug\ACCESOADATOS.pdb
+C:\Users\teo\source\repos\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\teo\source\repos\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\teo\source\repos\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\teo\source\repos\Inventariomedico\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\teo\source\repos\Inventariomedico\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\DOMINIO\bin\Debug\ACCESOADATOS.dll
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\DOMINIO\bin\Debug\ACCESOADATOS.pdb
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.CopyComplete
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\gmg\Documents\Visual Studio 2019\Inventariomedico\DOMINIO\obj\Debug\DOMINIO.pdb
